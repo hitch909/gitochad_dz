@@ -16,3 +16,55 @@
 ![hahahaha_cats](https://media.discordapp.net/attachments/578221595194294335/1047486691696447558/unknown.png?width=477&height=473)
 
 Давайте внесем изменения на клоне от Николая)
+
+**контроль версий**
+
+
+
+git clone-копирование репозитория
+
+git add-обновляет изменения в файле
+
+git commit -m "комент"- внесение изменений с коментарием
+
+git commit -a "комент"-изменение без git add
+
+git status-s -краткий отчет о состоянии
+
+внесение в текст ссылки
+
+цытата
+
+вложенная цытата
+
+еще цытата
+
+встраиваем код
+
+<nav class="nav nav-primary">
+  <ul>
+    <li class="tab-conversation active">
+      <a href="#" data-role="post-count" class="publisher-nav-color" data-nav="conversation">
+        <span class="comment-count">0 комментариев</span>
+        <span class="comment-count-placeholder">Комментарии</span>
+      </a>
+    </li>
+    <li class="dropdown user-menu" data-role="logout">
+      <a href="#" class="dropdown-toggle" data-toggle="dropdown">
+        <span class="dropdown-toggle-wrapper">
+          <span>
+            Войти
+          </span>
+        </span>
+        <span class="caret"></span>
+      </a>
+    </li>
+  </ul>
+</nav>
+что за код не знаю , просто скачал.))
+
+продолжение домашней работы
+
+создаем ветку branch2
+
+
